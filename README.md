@@ -1,4 +1,4 @@
-# NeetCode Solutions — @greencarlos
+# NeetCode Solutions — [@greencarlos](https://neetcode.io/user/FrozenChunin972)
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
